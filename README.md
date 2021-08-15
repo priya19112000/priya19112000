@@ -1,5 +1,4 @@
 ### Hi there 👋
- This is simple Book Management project using C language
 
 <!--
 **priya19112000/priya19112000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
